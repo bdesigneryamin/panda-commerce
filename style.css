@@ -39,6 +39,11 @@
 .caregories h1{
 color: white;
 }
-.caregories img{
-    
+.card{
+ border: none;
+ box-shadow: 5px 5px 5px 5px lightgray;   
+}
+#Shoes .card-footer{
+border-top: none;
+background-color: white;
 }
