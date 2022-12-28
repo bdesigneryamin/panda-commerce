@@ -16,9 +16,29 @@
     border-radius: 9px;
     padding: 9px 25px;
     border: none;
-    background-image: linear-gradient(to left,#ff589b 0%, #ff136f 100%);
+    background-image: linear-gradient(to left,#ff589b 0%, #e67575 100%);
     -webkit-border-radius: 9px;
-    -moz-border-radius: 9px;
-    -ms-border-radius: 9px;
-    -o-border-radius: 9px;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius:10px;
+    background-image: linear-gradient(to right, #ffd400 0%, #fff192 100%);
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 40px;
+    border-radius:10px;
+    background-image: linear-gradient(to right, #da70d6 0%, #e59be2 100%);
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 40px;
+    border-radius:10px;    
+}
+.caregories h1{
+color: white;
+}
+.caregories img{
+    
 }
